@@ -1,6 +1,6 @@
 # *watchdog* module for Package Control
 
-This is a mirror of the [watchdog](https://github.com/gorakhargosh/pathtools) module, created for using it as *dependency* in [Package Control](http://packagecontrol.io) for [Sublime Text](http://sublimetext.com/).
+This is a mirror of the [watchdog](https://github.com/gorakhargosh/watchdog) module, created for using it as *dependency* in [Package Control](http://packagecontrol.io) for [Sublime Text](http://sublimetext.com/).
 
 
 this repo | pypi
