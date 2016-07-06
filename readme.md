@@ -5,7 +5,7 @@ This is a mirror of the [watchdog](https://github.com/gorakhargosh/watchdog) mod
 
 this repo | pypi
 ---- | ----
-![latest tag](https://img.shields.io/github/tag/vovkkk/watchdog.svg) | [![pypi](https://img.shields.io/pypi/v/watchdog.svg)](https://pypi.python.org/pypi/watchdog)
+![latest tag](https://img.shields.io/github/tag/vovkkk/sublime-watchdog.svg) | [![pypi](https://img.shields.io/pypi/v/watchdog.svg)](https://pypi.python.org/pypi/watchdog)
 
 
 ## How to use
